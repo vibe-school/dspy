@@ -273,11 +273,11 @@ Next, we'll explore more advanced patterns like few-shot learning and prompt opt
 ---
 
 <div style={{textAlign: 'center', marginTop: '2rem'}}>
-  <a className="button button--secondary button--lg" href="/tutorial/module1/fundamentals">
+  <a className="button button--secondary button--lg" href="/dspy/tutorial/module1/fundamentals">
     ← Back to Fundamentals
   </a>
   <span style={{margin: '0 1rem'}}></span>
-  <a className="button button--primary button--lg" href="/tutorial/module2/few-shot-examples">
+  <a className="button button--primary button--lg" href="/dspy/tutorial/module2/few-shot-examples">
     Continue to Few-Shot Examples →
   </a>
 </div>

@@ -266,11 +266,11 @@ Next, we'll dive deeper into atomic prompts and basic DSPy usage patterns.
 ---
 
 <div style={{textAlign: 'center', marginTop: '2rem'}}>
-  <a className="button button--secondary button--lg" href="/tutorial/setup">
+  <a className="button button--secondary button--lg" href="/dspy/tutorial/setup">
     ← Back to Setup
   </a>
   <span style={{margin: '0 1rem'}}></span>
-  <a className="button button--primary button--lg" href="/tutorial/module2/atomic-prompts">
+  <a className="button button--primary button--lg" href="/dspy/tutorial/module2/basic-generation">
     Continue to Module 2 →
   </a>
 </div>

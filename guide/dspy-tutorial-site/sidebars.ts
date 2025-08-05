@@ -16,6 +16,8 @@ const sidebars: SidebarsConfig = {
       label: 'Module 2: Atomic Prompts',
       items: [
         'module2/basic-generation',
+        'module2/few-shot-examples',
+        'module2/system-prompts',
       ],
     },
     {
