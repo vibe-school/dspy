@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://dspy-tutorial.github.io',
+  url: 'https://vibe-school.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/dspy-den/',
+  baseUrl: '/dspy/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dspy-tutorial', // Usually your GitHub org/user name.
-  projectName: 'dspy-den', // Usually your repo name.
+  organizationName: 'vibe-school', // Usually your GitHub org/user name.
+  projectName: 'dspy', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dspy-tutorial/dspy-den/tree/main/guide/dspy-tutorial-site/',
+            'https://github.com/vibe-school/dspy/tree/main/guide/dspy-tutorial-site/',
         },
         blog: false,
         theme: {
@@ -119,7 +119,7 @@ const config: Config = {
           items: [
             {
               label: 'Source Code',
-              href: 'https://github.com/dspy-tutorial/dspy-den',
+              href: 'https://github.com/vibe-school/dspy',
             },
             {
               label: 'AVB Patreon',
